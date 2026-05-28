@@ -106,4 +106,4 @@ npx playwright test
 
 ## License
 
-This repository is published under the MIT License (see LICENSE file in the repository root).
+No license has been added at this time. This repository is primarily intended as a personal QA Automation study and portfolio project.
